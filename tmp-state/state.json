@@ -1,0 +1,17 @@
+{
+  "last_time": 200,
+  "next_id": 2,
+  "cookies": [
+    {
+      "name": "sid",
+      "value": "abc",
+      "domain": "example.com",
+      "path": "/a",
+      "secure": true,
+      "host_only": false,
+      "persistent": true,
+      "expires_at": 3700,
+      "created": 0
+    }
+  ]
+}
